@@ -34,7 +34,8 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
       <td width="50%">
         <h3 align="center">🌐 3D Portfolio</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="3D Animation"/>
+          <a href="https://3d-portfolio-yash-garg.vercel.app/">
+          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="3D Animation"/></a>
           <br><br>
           <p><strong>Blender + React Three Fiber</strong> - Interactive 3D portfolio showcasing creative development skills</p>
         </div>
@@ -42,30 +43,14 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
       <td width="50%">
         <h3 align="center">☁️ AWS Hands-on Projects</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Cloud Animation"/>
+           <a href="https://admission-process-sr5l.vercel.app/">
+          <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Cloud Animation"/></a>
           <br><br>
           <p><strong>Lambda, EC2, CloudFormation</strong> - Scalable cloud solutions and infrastructure automation</p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔒 Blockchain Authentication</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300" alt="Blockchain Animation"/>
-          <br><br>
-          <p><strong>Smart Contracts + Web3</strong> - Secure supplement authentication system using blockchain technology</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 Educational Social Platform</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" alt="Social Platform Animation"/>
-          <br><br>
-          <p><strong>MERN Stack + AI</strong> - Community platform with Reels, AI Chatbots, and interactive learning</p>
-        </div>
-      </td>
-    </tr>
+ 
   </table>
 </div>
 
