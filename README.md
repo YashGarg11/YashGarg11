@@ -131,9 +131,9 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/main/Screenshot-2025-07-30-181334.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/main/Screenshot-2025-07-30-181334.png">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/main/Screenshot-2025-07-30-181334.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
   </picture>
 </div>
 
