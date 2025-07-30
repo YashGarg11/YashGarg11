@@ -97,17 +97,9 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashGarg11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGarg11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGarg11&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashGarg11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -116,9 +108,9 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashGarg11/YashGarg11/output/Screenshot-2025-07-30-181334.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/main/Screenshot-2025-07-30-181334.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashGarg11/YashGarg11/main/Screenshot-2025-07-30-181334.png">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashGarg11/YashGarg11/main/Screenshot-2025-07-30-181334.png">
   </picture>
 </div>
 
@@ -132,22 +124,11 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YashGarg11&count=5&unique=true" alt="Spotify recently played" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yashgarg11">
+  <a href="https://www.linkedin.com/in/yash-garg-b90956258/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://twitter.com/yashgarg11">
@@ -155,9 +136,6 @@ Hi, I'm **Yash Garg**, a passionate and innovative final-year B.Tech student dee
   </a>
   <a href="https://discord.gg/yashgarg11">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-  </a>
-  <a href="https://youtube.com/@yashgarg11">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
 </div>
 
